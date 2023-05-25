@@ -1,0 +1,62 @@
+a HBFC bank - Excel
+
+Tools used: MS Excel, MS word | Pivot table using Excel | Visualization using Excel such as Scatterplot, Bar graph
+
+
+Situation--
+	HBFC bank wants to increase its  revenue by increasing its customer base who will avail personal loans (by taking interest amount bank will increase revenue)
+
+
+Task--
+	To Identify patterns & key characters insights of customers who  have availed personal loan and customers who have  not availed presonal loan
+
+
+Action -- (data + descriptive anylitics  and step taken)
+	What is the data you have?
+data-
+	we had customer id, age, experience, income, location, family size of customers, average transaction in credit cards per month, education,value of house mortgage , customers who availed personal loan in previous campaign, customer information about having security account and term deposit account, does customer do online activities does the customer use credit card?
+(understand the data of each column with 5000 customers)
+
+Description-
+	using excel i found out from previous campaign 10% customer avail personal loan and we    want to increase from 10% to 50%
+	we analysed our entire customer base and foud out that 
+	147 out of 5000 customers are customers who have  term deposit and credit card but do not have personal loan are 
+	high income people obtained more personal loan than low income people
+	professional people availed maximum loan followed by graduates
+
+	$100+ income category
+people have taken 438 loans or 91% loans out of 480
+
+ bank should mainly target customers who have 0 
+mortgage . 312(65%) personal loans has been take by 0 mortgage customers 
+taken
+
+
+420(87%) personal loans has been take by 
+customers who don’t have security account
+
+(61%) personal loans has been take by 
+customers who use internet banking facilities
+
+
+
+Result--
+	should target and run the campaign for high income professional and graduates and encourage people to open accounts as it will help in availing personal loans
+Recontact with old customers who have allready availed loans and Ask for referrals 
+
+Getting lower interest rates and low processing fees on loans 
+will encourage the interest of the customers and will make it 
+easier for them to consider availing a loan
+
+Provide special educational loan offers to students
+
+Email Marketing
+
+fin tech company like zest money ,razoo pay ect
+
+
+
+
+
+
+
